@@ -1,2 +1,2 @@
-#!/bin/bash
+ -e '0 string SCHOOL School data\n!:mime Schoo'
 file -C -m school.mgc
